@@ -8,7 +8,7 @@ body {
 
 div:first-child > h1 {
     text-align: center;
-    padding-bottom: 0.5em;
+    padding-bottom: 0.5rem;
 }
 
 div:first-child {
@@ -16,7 +16,7 @@ div:first-child {
     flex-direction: column;
     align-items: center;
 
-    padding-bottom: 2.5em;
+    padding-bottom: 2.5rem;
 }
 
 div > h2 {
@@ -38,13 +38,13 @@ li {
 }
 
 #social > a > i {
-    font-size: 2em;
+    font-size: 2rem;
 }
 
 .center {
   display: block;
-  padding-top: 1.5em;
+  padding-top: 1.5rem;
   margin-left: auto;
   margin-right: auto;
-  width: 15em;
+  width: 15rem;
 }
