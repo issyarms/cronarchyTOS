@@ -19,6 +19,11 @@ div:first-child {
     padding-bottom: 2.5rem;
 }
 
+#social {
+    display: flex;
+    justify-content: center;
+}
+
 div > h2 {
     display: flex;
     justify-content: center;
