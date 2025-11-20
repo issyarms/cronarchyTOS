@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 5rem;
+}
+
+div > h2 {
+    display: flex;
+    justify-content: center;
+}
+
+span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h4 {
+    text-align: center;
+}
+
+li {
+    padding: 0.3rem;
+}
+
+#social > a > i {
+    font-size: 1.5rem;
+}
+
+.center {
+  display: block;
+  padding-top: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
